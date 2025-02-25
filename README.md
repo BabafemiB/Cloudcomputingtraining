@@ -6,7 +6,7 @@ Welcome to the <code>Cloud Computing Training Roadmap</code> This structured pro
 ---
 
 ## Learning Path
-The training is divided into six major modules, each spanning multiple weeks. The training will start on the 1st of March, 2025. 
+The training is divided into six major modules, each spanning multiple weeks. The training will start on the 7th of March, 2025. 
 
 ### 1️⃣ Azure Fundamentals (AZ-900) - Weeks 1-2
    **Objective:** Gain foundational knowledge of cloud concepts and Azure services.
