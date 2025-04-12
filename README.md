@@ -1,12 +1,12 @@
 # Cloud Computing Training Roadmap
 
 ## Overview
-Welcome to the <code>Cloud Computing Training Roadmap</code> This structured program is designed to take beginners through a comprehensive journey in **Azure Fundamentals, Azure Administration, Azure Security, Azure DevOps & GitHub, Cybersecurity, and Azure AI**. The curriculum provides hands-on learning paths, recommended study materials, and real-world projects.
+Welcome to the <code>Cloud Computing Training Roadmap</code>. This structured program will take beginners through a comprehensive journey in **Azure Fundamentals, Azure Administration, Azure Security, Azure DevOps & GitHub, Cybersecurity, and Azure AI**. The curriculum provides hands-on learning paths, recommended study materials, and real-world projects.
 
 ---
 
 ## Learning Path
-The training is divided into six major modules, each spanning multiple weeks. The training will start on the 7th of March, 2025. 
+The training is divided into six major modules, each spanning multiple weeks. The training will start on the 12th of April, 2025. 
 
 ### 1️⃣ Azure Fundamentals (AZ-900) - Weeks 1-2
    **Objective:** Gain foundational knowledge of cloud concepts and Azure services.
